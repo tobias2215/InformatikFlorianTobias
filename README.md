@@ -12,4 +12,6 @@ In unserer zweiten Informatikstunde haben wir uns inen Github-Account erstellt u
 In dieser Stunde haben wir uns für das Projekt "Useless-Box" entschieden. Dies wollen wir mit einem Arduino umsetzen. Des weiteren haben wir erste erfahrungen mit Arduino gesammelt.
 
 ### 20.08.19
-Diese Stunde 
+Diese Stunde haben wir weiter mit Arduino experimentiert. Wir haben versucht einen Motor anzusteuern, leider ohne Erfolg.
+
+
