@@ -21,3 +21,10 @@ An diesem Tag waren wir sehr produktiv. Florian hat angefangen mit dem Programm 
 In dieser Stunde ist nicht viel passiert. Florian hat einen weiteren Entwurf für die Box gemacht und Tobias hat weiter das Programm durchgearbeitet.
 
 ### 27.08.19
+
+
+### 28.08.19
+Diese Stunde haben wir versucht einen Schrittmotor anzusteuern. Dies geschieht über eine Motorsteuerung //Bild einfügen//. Das ganze funktionierte leider nicht bis wir am Ende der Stunde zufällig den Fehler fanden: Der Motor hatte sich verharkt. Leider blieb uns keine Zeit einen Test durchzuführen.
+
+### 29.08.19
+Heute haben wir einen "Proof of concept" für den Schrittmotor durchgeführt. Der Code funktioniert erwartungsgemäß und der Motor bewegt sich. Durch eine Anregung von Herrn Buhl haben wir dann versucht durch das Einbauen von Variablen den Motor besser kontrollieren zu können.
