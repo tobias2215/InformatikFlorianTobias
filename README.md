@@ -16,3 +16,8 @@ Diese Stunde haben wir weiter mit Arduino experimentiert. Wir haben versucht ein
 
 ### 21.08.19
 An diesem Tag waren wir sehr produktiv. Florian hat angefangen mit dem Programm "MatterHackers" ein 3D Modell der Box anzufertigen. Während dessen hat Tobias angefangen sich durch ein Basis-Programm für Arduino durchzuarbeiten. Erste Schritte waren das Aufleuchten lassen einer LED über ein Seckbrett.
+
+### 22.08.19
+In dieser Stunde ist nicht viel passiert. Florian hat einen weiteren Entwurf für die Box gemacht und Tobias hat weiter das Programm durchgearbeitet.
+
+### 27.08.19
