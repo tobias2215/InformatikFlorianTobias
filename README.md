@@ -14,4 +14,5 @@ In dieser Stunde haben wir uns für das Projekt "Useless-Box" entschieden. Dies 
 ### 20.08.19
 Diese Stunde haben wir weiter mit Arduino experimentiert. Wir haben versucht einen Motor anzusteuern, leider ohne Erfolg.
 
-
+### 21.08.19
+An diesem Tag waren wir sehr produktiv. Florian hat angefangen mit dem Programm "MatterHackers" ein 3D Modell der Box anzufertigen. Während dessen hat Tobias angefangen sich durch ein Basis-Programm für Arduino durchzuarbeiten. Erste Schritte waren das Aufleuchten lassen einer LED über ein Seckbrett.
