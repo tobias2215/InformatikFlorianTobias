@@ -15,3 +15,19 @@ In dieser Stunde haben wir uns für das Projekt "Useless-Box" entschieden. Dies 
 Diese Stunde haben wir weiter mit Arduino experimentiert. Wir haben versucht einen Motor anzusteuern, leider ohne Erfolg.
 
 
+###21.08.19
+Versuch Motor anzusteuern, Code richtig aber Motor funzt net. Wird heiß... son Scheiß
+
+###22.08.19
+Mit Arduino Motor erfolgreich angesteuert (Motor hatte blockiert und sich erhitzt, nach etwas Gewalt liefer wieder)
+
+###27.08.19
+
+
+###28.08.19
+
+###29.08.19
+
+###11.09.19
+
+###12.09.19
