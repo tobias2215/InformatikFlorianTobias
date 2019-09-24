@@ -14,4 +14,32 @@ In dieser Stunde haben wir uns für das Projekt "Useless-Box" entschieden. Dies 
 ### 20.08.19
 Diese Stunde haben wir weiter mit Arduino experimentiert. Wir haben versucht einen Motor anzusteuern, leider ohne Erfolg.
 
+### 21.08.19
+Motor blockiert, net gefunzt, am Ende gemerkt
+
+### 22.08.19
+mit erfolg angesteuert
+
+### 27.08.19
+3d Programm ausprobiert
+
+### 28.08.19
+box modelliert
+
+### 29.08.19
+Variablen ausprobiert
+Box modelliert
+
+### 11.09.19
+3d Programm kannkeine druckbare Datei erstellen
+parallel mit Motor rumprobiert
+
+### 12.09.19
+
+Versucht zwei Motoren gleichzeitig an Arduino anzuschließen
+(Deckel und Hand/Zunge)
+
+### 24.09.19
+Zwei Motorenanschließen versucht
+
 
