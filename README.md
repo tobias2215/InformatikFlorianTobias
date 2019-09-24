@@ -14,4 +14,20 @@ In dieser Stunde haben wir uns für das Projekt "Useless-Box" entschieden. Dies 
 ### 20.08.19
 Diese Stunde haben wir weiter mit Arduino experimentiert. Wir haben versucht einen Motor anzusteuern, leider ohne Erfolg.
 
+### 21.08.19
+
+### 22.08.19
+
+### 27.08.19
+
+### 28.08.19
+
+### 29.08.19
+
+### 10.09.19
+
+### 11.09.19
+
+### 12.09.19
+
 
