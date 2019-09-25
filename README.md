@@ -73,3 +73,9 @@ parallel mit Motor rumprobiert
 ### 12.09.19
 Versucht zwei Motoren gleichzeitig an Arduino anzuschließen
 (Deckel und Hand/Zunge)
+
+### 24.09.19
+erfolgreich zwei Motoren angesteuert
+
+### 25.09.19 
+versucht einen schalter einzubauen, im forum nach Formatierungspoblem gesucht. Mit neuem Update soll as behoben werden.
