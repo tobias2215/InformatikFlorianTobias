@@ -82,3 +82,6 @@ versucht einen schalter einzubauen, im forum nach Formatierungspoblem gesucht. M
   
 ### 29.09.19
 Servo angesteuert
+fertiger >Roboter aus Sammlung, verschiedene Servos ausprobiert, zunächst nur hin und her
+dann hin in zwei Stufen und langsam zurück, dann schnell hin und langsam zurück... rumprobiert
+
