@@ -79,3 +79,6 @@ erfolgreich zwei Motoren angesteuert
 
 ### 25.09.19 
 versucht einen schalter einzubauen, im forum nach Formatierungspoblem gesucht. Mit neuem Update soll as behoben werden.
+  
+### 29.09.19
+Servo angesteuert
