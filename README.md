@@ -90,4 +90,6 @@ eigene Servos getestet, zwei auf einmal angeschlossen yt tutorial
 
 ### 23.10.19
 versuchen schalter einzubauen
+Bauplan gesucht
+komplett nachgebaut funzt
 
