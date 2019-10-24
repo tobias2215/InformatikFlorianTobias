@@ -93,3 +93,5 @@ versuchen schalter einzubauen
 Bauplan gesucht
 komplett nachgebaut funzt
 
+
+![Bauplan](
