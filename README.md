@@ -85,3 +85,13 @@ Servo angesteuert
 fertiger >Roboter aus Sammlung, verschiedene Servos ausprobiert, zunächst nur hin und her
 dann hin in zwei Stufen und langsam zurück, dann schnell hin und langsam zurück... rumprobiert
 
+### 22.10.19
+eigene Servos getestet, zwei auf einmal angeschlossen yt tutorial
+
+### 23.10.19
+versuchen schalter einzubauen
+Bauplan gesucht
+komplett nachgebaut funzt
+
+
+![Bauplan](https://github.com/Florianovic/InformatikFlorianTobias/blob/master/Bauplan.PNG)
