@@ -94,4 +94,4 @@ Bauplan gesucht
 komplett nachgebaut funzt
 
 
-![Bauplan](
+![Bauplan](https://github.com/Florianovic/InformatikFlorianTobias/blob/master/Bauplan.PNG)
